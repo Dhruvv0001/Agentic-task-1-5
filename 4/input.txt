@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+It involves learning, reasoning, and self-correction.
+Applications include healthcare, finance, and automation.
+Machine learning and neural networks are key techniques used in AI.
